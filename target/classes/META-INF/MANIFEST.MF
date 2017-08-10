@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: listavip
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: lssi
+Implementation-Vendor-Id: br.com.alura.listavip
+Build-Jdk: 1.8.0_91
+Implementation-URL: http://projects.spring.io/spring-boot/listavip/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
